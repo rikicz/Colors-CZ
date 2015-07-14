@@ -1,3 +1,4 @@
+# Colors-CZ
 // SourceMod 1.7+
 #include <sourcemod>
 #include <clientprefs>
@@ -102,3 +103,4 @@ public Action OnChatMessage(int &client, Handle hRecipients, char[] sName, char[
 
 	return Plugin_Continue;
 }
+
